@@ -5,12 +5,12 @@
 ### Motivation
 
 <div id="container" style="display: flex; gap: 20px; width: 100%;">
-  <div id="left_div" style="flex: 2;">
-    **What?**  
+<div id="left_div" style="flex: 2;">
+    <b>What?</b> 
     This project demonstrates the conversion of Python machine learning (ML) models to Arduino C++ code.  
     We will use some ML models purely as examples; the goal is not to find the best model or achieve minimal error.  
 
-    **Why?**  
+ **Why?**  
     In certain applications, such as embedded systems, small microcontrollers with limited memory and computing resources are used.  
     The idea is to train a machine learning model in a Python environment and then convert the trained model to C++ for deployment on a microcontroller.  
     In this project, we will use the Arduino Uno as an example, but the approach can be applied to other microcontrollers as well.  
