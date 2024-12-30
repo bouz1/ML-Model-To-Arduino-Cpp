@@ -19,7 +19,7 @@
     Follow the step-by-step guide below, or go directly to the PyPi package [mltoarduino](https://pypi.org/search/?q=mltoarduino)
   </div>
   <div id="right_div" style="flex: 1; width: 50%; display: flex; align-items: center;">
-    ![Illustration](https://bouz1.github.io/fils/MLModelToArduinoCpp/illustration.png)
+    <img src="https://bouz1.github.io/fils/MLModelToArduinoCpp/illustration.png" > 
   </div>
 </div>
 
